@@ -1,0 +1,22 @@
+canvas 
+{
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  
+}
+
+nav 
+{
+	background: #000;
+	height: 80px;
+	width: 100%;
+}
+
+body 
+{
+  background-color: black;
+}
